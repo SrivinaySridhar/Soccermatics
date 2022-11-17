@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Srivinay Sridhar. I am an IIT Madras BS in Data Science and Applications student. My passion for Sports lead me to this degree (might seem suprising how far apart those two sound but in reality, it's integrating faster than ever) and now that I have gained the basic skills, I wanted to start my journey of exploring the field of Sports Analytics - specifically Football because that is the sport I have grown up playing and falling in love with. 
+My name is Srivinay Sridhar. I am an IIT Madras BS in Data Science and Applications student. My passion for Sports lead me to this degree (might seem suprising how far apart those two sound but in reality, it's integrating faster than ever) and now that I have gained the basic skills, I wanted to start my journey of exploring the field of Sports Analytics - specifically Football because that is the sport I have grown up playing and fallen in love with. 
 
 ## What am I doing here? 
 
@@ -20,4 +20,6 @@ I started this journey on a Tuesday (Yes, you read that right. Not a Monday but 
 
 ### Week 1
 
-To be updated...
+1. Plotting the pitch using matplotlib - [FCPython](https://fcpython.com/visualisation/drawing-pitchmap-adding-lines-circles-matplotlib)
+2. Loading the data - [Statsbomb](https://github.com/statsbomb/open-data) and [Wyscout](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
+3. Understanding the data
