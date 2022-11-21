@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Srivinay Sridhar. I am an IIT Madras BS in Data Science and Applications student. My passion for Sports lead me to this degree (might seem suprising how far apart those two sound but in reality, it's integrating faster than ever) and now that I have gained the basic skills, I wanted to start my journey of exploring the field of Sports Analytics - specifically Football because that is the sport I have grown up playing and fallen in love with. 
+My name is Srivinay Sridhar. I am an IIT Madras BS in Data Science and Applications student. My passion for Sports led me to this degree (might seem suprising how far apart those two sound but in reality, it's integrating faster than ever) and now that I have gained the basic skills, I wanted to start my journey of exploring the field of Sports Analytics - specifically Football because that is the sport I have grown up playing and fallen in love with. 
 
 ## What am I doing here? 
 
@@ -22,4 +22,12 @@ I started this journey on a Tuesday (Yes, you read that right. Not a Monday but 
 
 1. Plotting the pitch using matplotlib - [FCPython](https://fcpython.com/visualisation/drawing-pitchmap-adding-lines-circles-matplotlib)
 2. Loading the data - [Statsbomb](https://github.com/statsbomb/open-data) and [Wyscout](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
-3. Understanding the data
+3. Understanding the data using pandas - [Pandas Dataframe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html#pandas.DataFrame) 
+
+Additionally: 
+1. Basics of Git - [Git Immersion](https://gitimmersion.com/index.html)
+2. Integrating GitHub with VScode - [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
+
+### Week 2
+
+To be updated...
