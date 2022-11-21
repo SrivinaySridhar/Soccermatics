@@ -2,7 +2,7 @@
 
 ## About Me
 
-My name is Srivinay Sridhar. I am an IIT Madras BS in Data Science and Applications student. My passion for Sports lead me to this degree (might seem suprising how far apart those two sound but in reality, it's integrating faster than ever) and now that I have gained the basic skills, I wanted to start my journey of exploring the field of Sports Analytics - specifically Football because that is the sport I have grown up playing and fallen in love with. 
+My name is Srivinay Sridhar. I am an IIT Madras BS in Data Science and Applications student. My passion for Sports led me to this degree (might seem suprising how far apart those two sound but in reality, it's integrating faster than ever) and now that I have gained the basic skills, I wanted to start my journey of exploring the field of Sports Analytics - specifically Football because that is the sport I have grown up playing and fallen in love with. 
 
 ## What am I doing here? 
 
