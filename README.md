@@ -22,4 +22,12 @@ I started this journey on a Tuesday (Yes, you read that right. Not a Monday but 
 
 1. Plotting the pitch using matplotlib - [FCPython](https://fcpython.com/visualisation/drawing-pitchmap-adding-lines-circles-matplotlib)
 2. Loading the data - [Statsbomb](https://github.com/statsbomb/open-data) and [Wyscout](https://figshare.com/collections/Soccer_match_event_dataset/4415000/5)
-3. Understanding the data
+3. Understanding the data using pandas - [Pandas Dataframe](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html#pandas.DataFrame) 
+
+Additionally: 
+1. Basics of Git - [Git Immersion](https://gitimmersion.com/index.html)
+2. Integrating GitHub with VScode - [Using Git source control in VS Code](https://code.visualstudio.com/docs/sourcecontrol/overview)
+
+### Week 2
+
+To be updated...
